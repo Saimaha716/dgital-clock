@@ -1,0 +1,23 @@
+body{
+    background-image: url(https://www.baltana.com/files/wallpapers-16/Digital-Art-HD-4K-Wallpapers-41715.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#clock {
+    font-size: 150px;
+    width: 900px;
+    margin: 200px;
+    text-align: center;
+    border: 3px solid white;
+    border-radius: 20px;
+    color: white;
+    margin-left: 20%;
+    margin-top: 20%;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+.text h1{
+    color: white; 
+    margin-left: 40%;
+   text-align: center;
+
+}
